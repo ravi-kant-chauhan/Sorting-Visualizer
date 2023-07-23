@@ -3,8 +3,6 @@
 ## Overview
 The Sorting Visualizer is a simple web application that provides a visual representation of various sorting algorithms. It allows users to witness the step-by-step process of how different sorting techniques arrange elements in a list or array.
 
-
-
 ## Features
 - Real-time visualization of sorting algorithms.
 - Adjustable speed controls to slow down or speed up the visualization process.
@@ -37,3 +35,5 @@ The Sorting Visualizer currently supports the following sorting algorithms:
 - HTML
 - CSS
 - JavaScript
+
+Take a look at my live project : https://ravi-kant-chauhan.github.io/Sorting-Visualizer/
